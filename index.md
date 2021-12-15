@@ -1,5 +1,5 @@
 ## Bio
-
+First year graduate student in Ocean Engineering. I work on underactuated propulsion systems and underwater imaging Drs. Stephen Licht and Brennan Phillips.
 ---
 ### Education
 
